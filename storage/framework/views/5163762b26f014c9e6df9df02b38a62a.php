@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampp\htdocs\libsys-portal\resources\views/partials/_nav.blade.php ENDPATH**/ ?>

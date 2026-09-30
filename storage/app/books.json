@@ -1,0 +1,82 @@
+{
+    "1": {
+        "id": 1,
+        "title": "Clean Code",
+        "genre": "Programming",
+        "publisher": "Prentice Hall",
+        "description": "A handbook of agile software craftsmanship.",
+        "rating": 5,
+        "pages": 464,
+        "year": 2008
+    },
+    "2": {
+        "id": 2,
+        "title": "Head First Design Patterns",
+        "genre": "Programming",
+        "publisher": "O'Reilly Media",
+        "description": "A brain-friendly guide to design patterns.",
+        "rating": 4,
+        "pages": 694,
+        "year": 2004
+    },
+    "3": {
+        "id": 3,
+        "title": "Eloquent JavaScript",
+        "genre": "Programming",
+        "publisher": "No Starch Press",
+        "description": "A modern introduction to programming with JavaScript.",
+        "rating": 4,
+        "pages": 472,
+        "year": 2011
+    },
+    "4": {
+        "id": 4,
+        "title": "Clean Architecture",
+        "genre": "Programming",
+        "publisher": "Prentice Hall",
+        "description": "A craftsman's guide to software structure and design.",
+        "rating": 5,
+        "pages": 432,
+        "year": 2017
+    },
+    "5": {
+        "id": 5,
+        "title": "Learning PHP",
+        "genre": "Programming",
+        "publisher": "O'Reilly Media",
+        "description": "A gentle guide to the fundamentals of PHP.",
+        "rating": 3,
+        "pages": 254,
+        "year": 2016
+    },
+    "6": {
+        "id": 6,
+        "title": "Refactoring",
+        "genre": "Programming",
+        "publisher": "Addison-Wesley",
+        "description": "Improving the design of existing code.",
+        "rating": 5,
+        "pages": 448,
+        "year": 1999
+    },
+    "7": {
+        "id": 7,
+        "title": "adfda",
+        "genre": "Programming",
+        "publisher": "dafadf",
+        "description": "adfdafad",
+        "rating": "2",
+        "pages": "223",
+        "year": "2000"
+    },
+    "8": {
+        "id": 8,
+        "title": "43543534534",
+        "genre": "Fiction",
+        "publisher": "fd",
+        "description": "sdf",
+        "rating": "3",
+        "pages": "3",
+        "year": "2003"
+    }
+}
